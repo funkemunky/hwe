@@ -1,4 +1,4 @@
-name: ublue hwe 40
+name: ublue hwe 41
 on:
   pull_request:
   merge_group:
